@@ -44,7 +44,7 @@ The goal is to identify whether teams should continue increasing 3-point volume 
 
 ## Visuals & Dashboards
 
-📈 Visuals you’ll find in this repo:
+Visuals you’ll find in this repo:
 - Scatterplot: 3PA per game vs. Win % across seasons
 - Heatmap: 3PAr vs Net Rating
 - Line chart: League-wide 3PA and 3P% trends from 2000 to present
@@ -54,7 +54,7 @@ The goal is to identify whether teams should continue increasing 3-point volume 
 
 ---
 
-## 📁 Repo Contents
+## Repo Contents
 
 | File | Description |
 |------|-------------|
@@ -66,7 +66,7 @@ The goal is to identify whether teams should continue increasing 3-point volume 
 
 ---
 
-## 👤 Author
+## Author
 
 **Vincent Pennachio**  
 [GitHub](https://github.com/vpennach) • [LinkedIn](https://www.linkedin.com/in/vincent-pennachio-a2470921b/) (insert yours)
