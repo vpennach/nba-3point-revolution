@@ -69,7 +69,7 @@ Visuals you’ll find in this repo:
 ## Author
 
 **Vincent Pennachio**  
-[GitHub](https://github.com/vpennach) • [LinkedIn](https://www.linkedin.com/in/vincent-pennachio-a2470921b/) (insert yours)
+[GitHub](https://github.com/vpennach) • [LinkedIn](https://www.linkedin.com/in/vincent-pennachio-a2470921b/)
 
 ---
 
